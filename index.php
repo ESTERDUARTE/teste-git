@@ -9,9 +9,9 @@
         <div class="logo"></div>
         <div class="menu">
             <ul class="carrinho">
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>seu carrinho</li>
+                <li>sobre nós</li>
+                <li>perguntas frequentes</li>
             </ul>
         </div>
         <nav>
